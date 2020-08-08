@@ -1,2 +1,2 @@
-# pemrograman-dasar-c
-Praktikum Pemrograman Dasar C
+# Pemrograman-Dasar-C
+Kumpulan modul untuk praktikum Pemrograman Dasar C
